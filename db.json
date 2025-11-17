@@ -1,14 +1,12 @@
-{
-  "companies": [
-    { "id": 1, "name": "Skyline BioTech", "industry": "Biotechnology", "location": "Ahmedabad", "employees": 135 },
-    { "id": 2, "name": "MetroGrid Energy", "industry": "Renewable Energy", "location": "Chandigarh", "employees": 90 },
-    { "id": 3, "name": "QuantumPulse AI", "industry": "Artificial Intelligence", "location": "Bengaluru", "employees": 210 },
-    { "id": 4, "name": "HarborWave Shipping", "industry": "Logistics", "location": "Visakhapatnam", "employees": 70 },
-    { "id": 5, "name": "Crestline Consulting", "industry": "Professional Services", "location": "Gurugram", "employees": 55 },
-    { "id": 6, "name": "Aurora HomeCare", "industry": "Healthcare", "location": "Jaipur", "employees": 160 },
-    { "id": 7, "name": "Nimbus Farms", "industry": "Agritech", "location": "Indore", "employees": 105 },
-    { "id": 8, "name": "SparkForge Robotics", "industry": "Manufacturing", "location": "Chennai", "employees": 185 },
-    { "id": 9, "name": "Riverstone Retail", "industry": "E-commerce", "location": "Kolkata", "employees": 65 },
-    { "id": 10, "name": "HelioSpace Systems", "industry": "Aerospace", "location": "Hyderabad", "employees": 240 }
-  ]
-}
+[
+  { "id": 1, "name": "Skyline BioTech", "industry": "Biotechnology", "location": "Ahmedabad", "employees": 135 },
+  { "id": 2, "name": "MetroGrid Energy", "industry": "Renewable Energy", "location": "Chandigarh", "employees": 90 },
+  { "id": 3, "name": "QuantumPulse AI", "industry": "Artificial Intelligence", "location": "Bengaluru", "employees": 210 },
+  { "id": 4, "name": "HarborWave Shipping", "industry": "Logistics", "location": "Visakhapatnam", "employees": 70 },
+  { "id": 5, "name": "Crestline Consulting", "industry": "Professional Services", "location": "Gurugram", "employees": 55 },
+  { "id": 6, "name": "Aurora HomeCare", "industry": "Healthcare", "location": "Jaipur", "employees": 160 },
+  { "id": 7, "name": "Nimbus Farms", "industry": "Agritech", "location": "Indore", "employees": 105 },
+  { "id": 8, "name": "SparkForge Robotics", "industry": "Manufacturing", "location": "Chennai", "employees": 185 },
+  { "id": 9, "name": "Riverstone Retail", "industry": "E-commerce", "location": "Kolkata", "employees": 65 },
+  { "id": 10, "name": "HelioSpace Systems", "industry": "Aerospace", "location": "Hyderabad", "employees": 240 }
+]
