@@ -4,7 +4,7 @@ import CompanyCard from '../components/CompanyCard'
 import FilterBar from '../components/FilterBar'
 import ReactPaginate from 'react-paginate'
 
-const API = 'http://localhost:4000/companies'
+const API = '/companies.json'
 
 
 export default function Home() {
